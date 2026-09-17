@@ -1,2 +1,3 @@
-# 1DAMV_Dur-n_L-pez_Nieves
+# 1DAMV_Durán_López_Nieves
+
 Ejercicio 01
